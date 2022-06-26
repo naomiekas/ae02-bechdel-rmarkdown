@@ -1,6 +1,6 @@
 Bechdel
 ================
-Mine Çetinkaya-Rundel
+Naomi Ekas
 
 In this mini analysis we work with the data used in the FiveThirtyEight
 story titled [“The Dollar-And-Cents Case Against Hollywood’s Exclusion
@@ -112,7 +112,7 @@ bechdel90_13 %>%
     ##  8 The Devil Inside         155.  2012
     ##  9 Primer                   142.  2004
     ## 10 Fireproof                134.  2008
-    ## # … with 1,605 more rows
+    ## # ... with 1,605 more rows
 
 Below is a visualization of the return on investment by test result,
 however it’s difficult to see the distributions due to a few extreme
